@@ -49,7 +49,6 @@ public class FunctionalApp {
       this.grade = grade;
     }
 
-    
   }
 
   static int square(int x) {
